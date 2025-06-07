@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Test\\maui\\my\\TestUserControls\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40AAD59D-8864-4CA0-8AB1-4D8DABC99B39}|TestUserControls.csproj|d:\\projects\\test\\maui\\my\\testusercontrols\\uc\\ucmylabel2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{40AAD59D-8864-4CA0-8AB1-4D8DABC99B39}|TestUserControls.csproj|solutionrelative:uc\\ucmylabel2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AAD59D-8864-4CA0-8AB1-4D8DABC99B39}|TestUserControls.csproj|d:\\projects\\test\\maui\\my\\testusercontrols\\uc\\ucmylabel3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{40AAD59D-8864-4CA0-8AB1-4D8DABC99B39}|TestUserControls.csproj|solutionrelative:uc\\ucmylabel3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AAD59D-8864-4CA0-8AB1-4D8DABC99B39}|TestUserControls.csproj|d:\\projects\\test\\maui\\my\\testusercontrols\\view\\subpage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{40AAD59D-8864-4CA0-8AB1-4D8DABC99B39}|TestUserControls.csproj|solutionrelative:view\\subpage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AAD59D-8864-4CA0-8AB1-4D8DABC99B39}|TestUserControls.csproj|d:\\projects\\test\\maui\\my\\testusercontrols\\uc\\ucmylabel2.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{40AAD59D-8864-4CA0-8AB1-4D8DABC99B39}|TestUserControls.csproj|solutionrelative:uc\\ucmylabel2.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AAD59D-8864-4CA0-8AB1-4D8DABC99B39}|TestUserControls.csproj|d:\\projects\\test\\maui\\my\\testusercontrols\\uc\\ucmylabel.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{40AAD59D-8864-4CA0-8AB1-4D8DABC99B39}|TestUserControls.csproj|solutionrelative:uc\\ucmylabel.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AAD59D-8864-4CA0-8AB1-4D8DABC99B39}|TestUserControls.csproj|d:\\projects\\test\\maui\\my\\testusercontrols\\uc\\ucmylabel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{40AAD59D-8864-4CA0-8AB1-4D8DABC99B39}|TestUserControls.csproj|solutionrelative:uc\\ucmylabel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AAD59D-8864-4CA0-8AB1-4D8DABC99B39}|TestUserControls.csproj|d:\\projects\\test\\maui\\my\\testusercontrols\\view\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{40AAD59D-8864-4CA0-8AB1-4D8DABC99B39}|TestUserControls.csproj|solutionrelative:view\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UcMyLabel2.xaml",
+              "DocumentMoniker": "D:\\Projects\\Test\\maui\\my\\TestUserControls\\UC\\UcMyLabel2.xaml",
+              "RelativeDocumentMoniker": "UC\\UcMyLabel2.xaml",
+              "ToolTip": "D:\\Projects\\Test\\maui\\my\\TestUserControls\\UC\\UcMyLabel2.xaml",
+              "RelativeToolTip": "UC\\UcMyLabel2.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-07T04:28:59.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UcMyLabel2.xaml.cs",
+              "DocumentMoniker": "D:\\Projects\\Test\\maui\\my\\TestUserControls\\UC\\UcMyLabel2.xaml.cs",
+              "RelativeDocumentMoniker": "UC\\UcMyLabel2.xaml.cs",
+              "ToolTip": "D:\\Projects\\Test\\maui\\my\\TestUserControls\\UC\\UcMyLabel2.xaml.cs",
+              "RelativeToolTip": "UC\\UcMyLabel2.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T04:39:34.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SubPage1.xaml",
+              "DocumentMoniker": "D:\\Projects\\Test\\maui\\my\\TestUserControls\\View\\SubPage1.xaml",
+              "RelativeDocumentMoniker": "View\\SubPage1.xaml",
+              "ToolTip": "D:\\Projects\\Test\\maui\\my\\TestUserControls\\View\\SubPage1.xaml",
+              "RelativeToolTip": "View\\SubPage1.xaml",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvwsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-07T04:32:45.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UcMyLabel3.xaml",
+              "DocumentMoniker": "D:\\Projects\\Test\\maui\\my\\TestUserControls\\UC\\UcMyLabel3.xaml",
+              "RelativeDocumentMoniker": "UC\\UcMyLabel3.xaml",
+              "ToolTip": "D:\\Projects\\Test\\maui\\my\\TestUserControls\\UC\\UcMyLabel3.xaml",
+              "RelativeToolTip": "UC\\UcMyLabel3.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-07T04:29:06.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UcMyLabel.xaml.cs",
+              "DocumentMoniker": "D:\\Projects\\Test\\maui\\my\\TestUserControls\\UC\\UcMyLabel.xaml.cs",
+              "RelativeDocumentMoniker": "UC\\UcMyLabel.xaml.cs",
+              "ToolTip": "D:\\Projects\\Test\\maui\\my\\TestUserControls\\UC\\UcMyLabel.xaml.cs",
+              "RelativeToolTip": "UC\\UcMyLabel.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T04:26:24.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UcMyLabel.xaml",
+              "DocumentMoniker": "D:\\Projects\\Test\\maui\\my\\TestUserControls\\UC\\UcMyLabel.xaml",
+              "RelativeDocumentMoniker": "UC\\UcMyLabel.xaml",
+              "ToolTip": "D:\\Projects\\Test\\maui\\my\\TestUserControls\\UC\\UcMyLabel.xaml",
+              "RelativeToolTip": "UC\\UcMyLabel.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-07T04:26:15.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\Projects\\Test\\maui\\my\\TestUserControls\\View\\MainPage.xaml",
+              "RelativeDocumentMoniker": "View\\MainPage.xaml",
+              "ToolTip": "D:\\Projects\\Test\\maui\\my\\TestUserControls\\View\\MainPage.xaml",
+              "RelativeToolTip": "View\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-07T04:27:41.876Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

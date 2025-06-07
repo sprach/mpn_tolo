@@ -1,0 +1,83 @@
+is_global = true
+build_property.TargetFramework = net9.0-windows10.0.19041.0
+build_property.TargetPlatformMinVersion = 10.0.17763.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 9A19103F-16F7-4668-BE54-9A1E7A4F7556
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TestUserControls
+build_property.ProjectDir = D:\github\tolo\mpn_tolo\Study\02_TestUserControls\src\TestUserControls\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTAotOptimizerEnabled = true
+build_property.CsWinRTAotExportsEnabled = 
+build_property.CsWinRTRcwFactoryFallbackGeneratorForceOptIn = 
+build_property.CsWinRTRcwFactoryFallbackGeneratorForceOptOut = 
+build_property.CsWinRTCcwLookupTableGeneratorEnabled = true
+build_property.CsWinRTMergeReferencedActivationFactories = 
+build_property.CsWinRTAotWarningLevel = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/github/tolo/mpn_tolo/Study/02_TestUserControls/src/TestUserControls/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TestUserControls.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[D:/github/tolo/mpn_tolo/Study/02_TestUserControls/src/TestUserControls/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TestUserControls.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[D:/github/tolo/mpn_tolo/Study/02_TestUserControls/src/TestUserControls/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TestUserControls.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[D:/github/tolo/mpn_tolo/Study/02_TestUserControls/src/TestUserControls/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TestUserControls.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[D:/github/tolo/mpn_tolo/Study/02_TestUserControls/src/TestUserControls/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TestUserControls.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[D:/github/tolo/mpn_tolo/Study/02_TestUserControls/src/TestUserControls/UC/UcMyLabel.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TestUserControls.UC.UcMyLabel.xaml
+build_metadata.AdditionalFiles.TargetPath = UC\UcMyLabel.xaml
+build_metadata.AdditionalFiles.RelativePath = UC\UcMyLabel.xaml
+
+[D:/github/tolo/mpn_tolo/Study/02_TestUserControls/src/TestUserControls/UC/UcMyLabel2.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TestUserControls.UC.UcMyLabel2.xaml
+build_metadata.AdditionalFiles.TargetPath = UC\UcMyLabel2.xaml
+build_metadata.AdditionalFiles.RelativePath = UC\UcMyLabel2.xaml
+
+[D:/github/tolo/mpn_tolo/Study/02_TestUserControls/src/TestUserControls/UC/UcMyLabel3.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TestUserControls.UC.UcMyLabel3.xaml
+build_metadata.AdditionalFiles.TargetPath = UC\UcMyLabel3.xaml
+build_metadata.AdditionalFiles.RelativePath = UC\UcMyLabel3.xaml
+
+[D:/github/tolo/mpn_tolo/Study/02_TestUserControls/src/TestUserControls/View/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TestUserControls.View.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = View\MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = View\MainPage.xaml
+
+[D:/github/tolo/mpn_tolo/Study/02_TestUserControls/src/TestUserControls/View/SubPage1.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TestUserControls.View.SubPage1.xaml
+build_metadata.AdditionalFiles.TargetPath = View\SubPage1.xaml
+build_metadata.AdditionalFiles.RelativePath = View\SubPage1.xaml

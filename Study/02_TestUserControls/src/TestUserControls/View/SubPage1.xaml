@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TestUserControls.View.SubPage1"
+             xmlns:uc="clr-namespace:TestUserControls.UC;assembly=TestUserControls"
+             Title="SubPage1">
+    <!-- Auto:Widget 크기에 맞춤, *:셀 크기에 맞춤 -->
+    <Grid RowDefinitions="*,Auto" ColumnDefinitions="Auto,*">
+        <uc:UcMyLabel3 x:Name="MyLabel2" Grid.Row="0" Grid.Column="0"/>
+        <Button Text="Go to MainPage" Clicked="OnGoToMainPageClicked" Grid.Row="1" Grid.ColumnSpan="2" Grid.Column="0"/>
+    </Grid>
+</ContentPage>
